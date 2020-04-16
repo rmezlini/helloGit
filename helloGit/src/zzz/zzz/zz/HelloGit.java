@@ -1,4 +1,4 @@
-package git.demo;
+package zzz.zzz.zz;
 
 public class HelloGit {
 	
