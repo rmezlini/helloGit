@@ -1,6 +1,6 @@
 package zzz.zzz.zz;
 
-public class ReHelloGit {
+public class RenameHelloGit {
 	
 	public static void main(String [] args) {
 		System.out.println("demo git");
